@@ -1,0 +1,18 @@
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\bin\Debug\NCrawler.iTextSharpPdfProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\bin\Debug\NCrawler.iTextSharpPdfProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\bin\Debug\itextsharp.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\bin\Debug\NCrawler.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\bin\Debug\Autofac.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\bin\Debug\NCrawler.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\obj\Debug\NCrawler.iTextSharpPdfProcessor.csprojResolveAssemblyReference.cache
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\obj\Debug\NCrawler.iTextSharpPdfProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.iTextSharpPdfProcessor\obj\Debug\NCrawler.iTextSharpPdfProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.iTextSharpPdfProcessor\bin\Debug\NCrawler.iTextSharpPdfProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.iTextSharpPdfProcessor\bin\Debug\NCrawler.iTextSharpPdfProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.iTextSharpPdfProcessor\bin\Debug\itextsharp.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.iTextSharpPdfProcessor\bin\Debug\NCrawler.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.iTextSharpPdfProcessor\bin\Debug\Autofac.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.iTextSharpPdfProcessor\bin\Debug\NCrawler.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.iTextSharpPdfProcessor\obj\Debug\NCrawler.iTextSharpPdfProcessor.csprojResolveAssemblyReference.cache
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.iTextSharpPdfProcessor\obj\Debug\NCrawler.iTextSharpPdfProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.iTextSharpPdfProcessor\obj\Debug\NCrawler.iTextSharpPdfProcessor.pdb

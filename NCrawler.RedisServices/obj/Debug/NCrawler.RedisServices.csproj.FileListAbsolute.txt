@@ -1,0 +1,32 @@
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.RedisServices\bin\Debug\NCrawler.RedisServices.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.RedisServices\bin\Debug\NCrawler.RedisServices.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.RedisServices\bin\Debug\Autofac.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.RedisServices\bin\Debug\NCrawler.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.RedisServices\bin\Debug\ServiceStack.Common.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.RedisServices\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.RedisServices\bin\Debug\ServiceStack.Redis.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.RedisServices\bin\Debug\ServiceStack.Text.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.RedisServices\bin\Debug\NCrawler.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.RedisServices\bin\Debug\ServiceStack.Common.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.RedisServices\bin\Debug\ServiceStack.Interfaces.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.RedisServices\bin\Debug\ServiceStack.Redis.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.RedisServices\bin\Debug\ServiceStack.Text.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.RedisServices\obj\Debug\NCrawler.RedisServices.csprojResolveAssemblyReference.cache
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.RedisServices\obj\Debug\NCrawler.RedisServices.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.RedisServices\obj\Debug\NCrawler.RedisServices.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.RedisServices\bin\Debug\NCrawler.RedisServices.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.RedisServices\bin\Debug\NCrawler.RedisServices.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.RedisServices\bin\Debug\Autofac.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.RedisServices\bin\Debug\NCrawler.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.RedisServices\bin\Debug\ServiceStack.Common.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.RedisServices\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.RedisServices\bin\Debug\ServiceStack.Redis.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.RedisServices\bin\Debug\ServiceStack.Text.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.RedisServices\bin\Debug\NCrawler.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.RedisServices\bin\Debug\ServiceStack.Common.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.RedisServices\bin\Debug\ServiceStack.Interfaces.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.RedisServices\bin\Debug\ServiceStack.Redis.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.RedisServices\bin\Debug\ServiceStack.Text.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.RedisServices\obj\Debug\NCrawler.RedisServices.csprojResolveAssemblyReference.cache
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.RedisServices\obj\Debug\NCrawler.RedisServices.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.RedisServices\obj\Debug\NCrawler.RedisServices.pdb

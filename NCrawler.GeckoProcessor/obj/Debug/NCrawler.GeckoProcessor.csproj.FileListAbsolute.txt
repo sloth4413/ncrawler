@@ -1,0 +1,26 @@
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.GeckoProcessor\bin\Debug\NCrawler.GeckoProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.GeckoProcessor\bin\Debug\NCrawler.GeckoProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.GeckoProcessor\bin\Debug\NCrawler.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.GeckoProcessor\bin\Debug\NCrawler.HtmlProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.GeckoProcessor\bin\Debug\Skybound.Gecko.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.GeckoProcessor\bin\Debug\HtmlAgilityPack.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.GeckoProcessor\bin\Debug\Autofac.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.GeckoProcessor\bin\Debug\NCrawler.HtmlProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.GeckoProcessor\bin\Debug\NCrawler.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.GeckoProcessor\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.GeckoProcessor\obj\Debug\NCrawler.GeckoProcessor.csprojResolveAssemblyReference.cache
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.GeckoProcessor\obj\Debug\NCrawler.GeckoProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.GeckoProcessor\obj\Debug\NCrawler.GeckoProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.GeckoProcessor\bin\Debug\NCrawler.GeckoProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.GeckoProcessor\bin\Debug\NCrawler.GeckoProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.GeckoProcessor\bin\Debug\NCrawler.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.GeckoProcessor\bin\Debug\NCrawler.HtmlProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.GeckoProcessor\bin\Debug\Skybound.Gecko.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.GeckoProcessor\bin\Debug\HtmlAgilityPack.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.GeckoProcessor\bin\Debug\Autofac.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.GeckoProcessor\bin\Debug\NCrawler.HtmlProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.GeckoProcessor\bin\Debug\NCrawler.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.GeckoProcessor\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.GeckoProcessor\obj\Debug\NCrawler.GeckoProcessor.csprojResolveAssemblyReference.cache
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.GeckoProcessor\obj\Debug\NCrawler.GeckoProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.GeckoProcessor\obj\Debug\NCrawler.GeckoProcessor.pdb

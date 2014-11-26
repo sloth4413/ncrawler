@@ -1,0 +1,18 @@
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.DbServices.Db\sql\debug\NCrawler.DbServices.Db.dacpac
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.DbServices.Db\sql\debug\NCrawler.DbServices.Db.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.DbServices.Db\sql\debug\NCrawler.DbServices.Db.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.DbServices.Db\obj\Debug\Model.xml
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.DbServices.Db\obj\Debug\refactor.xml
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.DbServices.Db\obj\Debug\postdeploy.sql
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.DbServices.Db\obj\Debug\predeploy.sql
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.DbServices.Db\obj\Debug\NCrawler.DbServices.Db.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.DbServices.Db\obj\Debug\NCrawler.DbServices.Db.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.DbServices.Db\sql\debug\NCrawler.DbServices.Db.dacpac
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.DbServices.Db\sql\debug\NCrawler.DbServices.Db.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.DbServices.Db\sql\debug\NCrawler.DbServices.Db.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.DbServices.Db\obj\Debug\Model.xml
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.DbServices.Db\obj\Debug\refactor.xml
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.DbServices.Db\obj\Debug\postdeploy.sql
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.DbServices.Db\obj\Debug\predeploy.sql
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.DbServices.Db\obj\Debug\NCrawler.DbServices.Db.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.DbServices.Db\obj\Debug\NCrawler.DbServices.Db.pdb

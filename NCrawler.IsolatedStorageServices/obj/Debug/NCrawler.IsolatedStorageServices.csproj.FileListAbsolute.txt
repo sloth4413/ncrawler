@@ -1,0 +1,14 @@
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.IsolatedStorageServices\bin\Debug\NCrawler.IsolatedStorageServices.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.IsolatedStorageServices\bin\Debug\NCrawler.IsolatedStorageServices.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.IsolatedStorageServices\bin\Debug\Autofac.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.IsolatedStorageServices\bin\Debug\NCrawler.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.IsolatedStorageServices\bin\Debug\NCrawler.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.IsolatedStorageServices\obj\Debug\NCrawler.IsolatedStorageServices.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.IsolatedStorageServices\obj\Debug\NCrawler.IsolatedStorageServices.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.IsolatedStorageServices\bin\Debug\NCrawler.IsolatedStorageServices.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.IsolatedStorageServices\bin\Debug\NCrawler.IsolatedStorageServices.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.IsolatedStorageServices\bin\Debug\Autofac.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.IsolatedStorageServices\bin\Debug\NCrawler.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.IsolatedStorageServices\bin\Debug\NCrawler.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.IsolatedStorageServices\obj\Debug\NCrawler.IsolatedStorageServices.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.IsolatedStorageServices\obj\Debug\NCrawler.IsolatedStorageServices.pdb

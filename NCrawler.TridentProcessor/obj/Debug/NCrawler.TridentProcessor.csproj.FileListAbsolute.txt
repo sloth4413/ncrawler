@@ -1,0 +1,28 @@
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.TridentProcessor\bin\Debug\NCrawler.IEProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.TridentProcessor\bin\Debug\NCrawler.IEProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.TridentProcessor\bin\Debug\NCrawler.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.TridentProcessor\bin\Debug\NCrawler.HtmlProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.TridentProcessor\bin\Debug\HtmlAgilityPack.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.TridentProcessor\bin\Debug\Autofac.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.TridentProcessor\bin\Debug\NCrawler.HtmlProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.TridentProcessor\bin\Debug\NCrawler.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.TridentProcessor\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.TridentProcessor\obj\Debug\NCrawler.TridentProcessor.csprojResolveAssemblyReference.cache
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.TridentProcessor\obj\Debug\NCrawler.IEProcessor.TridentBrowserForm.resources
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.TridentProcessor\obj\Debug\NCrawler.TridentProcessor.csproj.GenerateResource.Cache
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.TridentProcessor\obj\Debug\NCrawler.IEProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.TridentProcessor\obj\Debug\NCrawler.IEProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.TridentProcessor\bin\Debug\NCrawler.IEProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.TridentProcessor\bin\Debug\NCrawler.IEProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.TridentProcessor\bin\Debug\NCrawler.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.TridentProcessor\bin\Debug\NCrawler.HtmlProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.TridentProcessor\bin\Debug\HtmlAgilityPack.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.TridentProcessor\bin\Debug\Autofac.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.TridentProcessor\bin\Debug\NCrawler.HtmlProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.TridentProcessor\bin\Debug\NCrawler.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.TridentProcessor\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.TridentProcessor\obj\Debug\NCrawler.TridentProcessor.csprojResolveAssemblyReference.cache
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.TridentProcessor\obj\Debug\NCrawler.IEProcessor.TridentBrowserForm.resources
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.TridentProcessor\obj\Debug\NCrawler.TridentProcessor.csproj.GenerateResource.Cache
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.TridentProcessor\obj\Debug\NCrawler.IEProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.TridentProcessor\obj\Debug\NCrawler.IEProcessor.pdb

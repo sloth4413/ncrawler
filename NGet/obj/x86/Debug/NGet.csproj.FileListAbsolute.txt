@@ -1,0 +1,26 @@
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NGet\bin\Debug\NGet.exe.config
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NGet\bin\Debug\NGet.exe
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NGet\bin\Debug\NGet.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NGet\bin\Debug\NCrawler.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NGet\bin\Debug\NCrawler.HtmlProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NGet\bin\Debug\HtmlAgilityPack.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NGet\bin\Debug\Autofac.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NGet\bin\Debug\NCrawler.HtmlProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NGet\bin\Debug\NCrawler.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NGet\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NGet\obj\x86\Debug\NGet.csprojResolveAssemblyReference.cache
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NGet\obj\x86\Debug\NGet.exe
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NGet\obj\x86\Debug\NGet.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NGet\bin\Debug\NGet.exe.config
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NGet\bin\Debug\NGet.exe
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NGet\bin\Debug\NGet.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NGet\bin\Debug\NCrawler.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NGet\bin\Debug\NCrawler.HtmlProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NGet\bin\Debug\HtmlAgilityPack.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NGet\bin\Debug\Autofac.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NGet\bin\Debug\NCrawler.HtmlProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NGet\bin\Debug\NCrawler.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NGet\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NGet\obj\x86\Debug\NGet.csprojResolveAssemblyReference.cache
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NGet\obj\x86\Debug\NGet.exe
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NGet\obj\x86\Debug\NGet.pdb

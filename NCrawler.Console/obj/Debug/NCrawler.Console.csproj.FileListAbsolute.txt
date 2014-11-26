@@ -1,0 +1,25 @@
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.Console\bin\Debug\NCrawl.exe.config
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.Console\bin\Debug\NCrawl.exe
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.Console\bin\Debug\NCrawl.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.Console\bin\Debug\Autofac.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.Console\bin\Debug\NCrawler.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.Console\bin\Debug\NCrawler.HtmlProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.Console\bin\Debug\HtmlAgilityPack.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.Console\bin\Debug\NCrawler.HtmlProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.Console\bin\Debug\NCrawler.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.Console\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.Console\obj\Debug\NCrawl.exe
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.Console\obj\Debug\NCrawl.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.Console\bin\Debug\NCrawl.exe.config
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.Console\bin\Debug\NCrawl.exe
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.Console\bin\Debug\NCrawl.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.Console\bin\Debug\Autofac.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.Console\bin\Debug\NCrawler.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.Console\bin\Debug\NCrawler.HtmlProcessor.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.Console\bin\Debug\HtmlAgilityPack.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.Console\bin\Debug\NCrawler.HtmlProcessor.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.Console\bin\Debug\NCrawler.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.Console\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.Console\obj\Debug\NCrawler.Console.csprojResolveAssemblyReference.cache
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.Console\obj\Debug\NCrawl.exe
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.Console\obj\Debug\NCrawl.pdb

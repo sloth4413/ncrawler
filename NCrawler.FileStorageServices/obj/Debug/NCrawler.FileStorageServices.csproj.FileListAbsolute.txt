@@ -1,0 +1,16 @@
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.FileStorageServices\bin\Debug\NCrawler.FileStorageServices.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.FileStorageServices\bin\Debug\NCrawler.FileStorageServices.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.FileStorageServices\bin\Debug\Autofac.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.FileStorageServices\bin\Debug\NCrawler.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.FileStorageServices\bin\Debug\NCrawler.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.FileStorageServices\obj\Debug\NCrawler.FileStorageServices.csprojResolveAssemblyReference.cache
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.FileStorageServices\obj\Debug\NCrawler.FileStorageServices.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\Net 4.0\NCrawler.FileStorageServices\obj\Debug\NCrawler.FileStorageServices.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.FileStorageServices\bin\Debug\NCrawler.FileStorageServices.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.FileStorageServices\bin\Debug\NCrawler.FileStorageServices.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.FileStorageServices\bin\Debug\Autofac.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.FileStorageServices\bin\Debug\NCrawler.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.FileStorageServices\bin\Debug\NCrawler.pdb
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.FileStorageServices\obj\Debug\NCrawler.FileStorageServices.csprojResolveAssemblyReference.cache
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.FileStorageServices\obj\Debug\NCrawler.FileStorageServices.dll
+C:\Users\nbboy\Desktop\阅读代码\ncrawler\NCrawler.FileStorageServices\obj\Debug\NCrawler.FileStorageServices.pdb
